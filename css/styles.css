@@ -1,0 +1,27 @@
+body{
+  background-image:url('haikei.png');
+  font-family: 'Meiryo','sans-serif';
+}
+
+h1 {
+  color:rgb(45, 45, 96);
+  font-size: 40px;
+
+}
+
+img {
+  margin: 5px;
+  border-radius:20px 30px 20px 20px / 40px 20px 10px 30px;
+}
+
+.TopPic{
+  margin: 20px 50px 20px 50px;
+}
+
+.EndPic {
+  margin: 20px 50px 20px 50px;
+}
+
+.hokkininn {
+  text-align: center;
+}
